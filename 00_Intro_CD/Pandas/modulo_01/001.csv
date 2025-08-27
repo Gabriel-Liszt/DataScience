@@ -1,0 +1,11 @@
+ID_Paciente,Nome,Idade,Sexo,Tratamento,Valor,Data_Consulta
+1,João Silva,25,M,Limpeza,150.00,2025-08-01
+2,Maria Souza,30,F,Clareamento,800.00,2025-08-05
+3,Pedro Santos,45,M,Canal,1200.50,2025-08-08
+4,Ana Costa,22,F,Extração,350.00,2025-08-10
+5,Carlos Ferreira,55,M,Implante,5000.00,2025-08-12
+6,Fernanda Lima,33,F,Limpeza,150.00,2025-08-15
+7,Gustavo Oliveira,29,M,Clareamento,800.00,2025-08-18
+8,Sofia Rodrigues,40,F,Canal,1200.50,2025-08-20
+9,Bruno Almeida,28,M,Extração,350.00,2025-08-22
+10,Julia Carvalho,60,F,Implante,5000.00,2025-08-25
